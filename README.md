@@ -21,3 +21,5 @@ Bubble Sort button: Start Bubble Sort
 Insertion Sort button: Start Insertion Sort
 
 Quick Sort button: Start Quick Sort
+
+![alt text](https://github.com/Space-Penguins/SortingAlgorithms/example.png?raw=true)
